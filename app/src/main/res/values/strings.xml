@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Protected.net Application</string>
+
+    <string name="enter_city_name">Enter city name</string>
+
+    <string name="find_weather">Find weather</string>
+
+    <string name="notification_title">Weather notification</string>
+    <string name="notification_text_cold">It\'s freezing</string>
+    <string name="notification_text_hot">It\'s boiling</string>
+    <string name="notification_channel_name">Weather notification</string>
+    <string name="notification_channel_description">Channel for showing the weather</string>
+</resources>
